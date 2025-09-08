@@ -1,4 +1,4 @@
-#Computer Vision Projects with OpenCV
+**Computer Vision Projects with OpenCV**
 
 This repository contains multiple mini-projects showcasing different Computer Vision techniques using Python and OpenCV. Each project demonstrates how to process, analyze, and manipulate images and videos.
 
