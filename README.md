@@ -53,9 +53,3 @@ pip install opencv-python
 python Face_and_object-detection/face_eye_smile.py
 
 
-
-⸻
-
-👉 This description will look great in your README.md and also help you explain your projects in interviews.
-
-Do you want me to make this short for GitHub (1–2 lines per project) or a detailed version with images/code snippets?
